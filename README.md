@@ -115,7 +115,7 @@ Contributions are welcome! Feel free to `fork` this repository and create a `pul
 
 ## Feedback
 
-If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
+If you have any feedback, please reach out to me at Kushagrasharma216@gmail.com
 
 
 ## Acknowledgements
