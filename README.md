@@ -1,6 +1,6 @@
 ## Let's Connect 
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/kusharm/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/kushagra216) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://www.instagram.com/iamkushagra.sharma/) [<img target="_blank" src="[https://img.icons8.com/bubbles/100/000000/gmail.png]" title="Gmail">](mailto:kushagrasharma216@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/kusharm/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/kushagra216) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/gmail.png" title="Gmail">](mailto:kushagrasharma216@gmail.com) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://www.instagram.com/iamkushagra.sharma/) 
 
 # Twitter-Sentiment-Analysis
 
